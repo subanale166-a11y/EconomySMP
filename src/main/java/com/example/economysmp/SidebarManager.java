@@ -7,7 +7,7 @@ import org.bukkit.scoreboard.DisplaySlot;
 import org.bukkit.scoreboard.Objective;
 import org.bukkit.scoreboard.Scoreboard;
 import org.bukkit.scoreboard.Team;
-import org.bukkit.scoreboard.numbers.NumberFormat;
+import io.papermc.paper.scoreboard.numbers.NumberFormat;
 
 import java.util.HashMap;
 import java.util.List;
